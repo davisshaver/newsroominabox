@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://newsroominabox.com/blog</id>
+    <title>Newsroom in a Box Blog</title>
+    <updated>2018-01-30T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://newsroominabox.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Newsroom in a Box news and events.</subtitle>
+    <logo>https://newsroominabox.comimg/ben.png</logo>
+    <rights>Copyright © 2018 Philadelphia Publishing Company</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>https://newsroominabox.com/blog/2018/01/30/hello-world.html</id>
+        <link href="https://newsroominabox.com/blog/2018/01/30/hello-world.html">
+        </link>
+        <updated>2018-01-30T06:00:00Z</updated>
+        <summary type="html"><![CDATA[Hello world!]]></summary>
+        <author>
+            <name>Davis Shaver</name>
+            <uri>http://twitter.com/davisshaver</uri>
+        </author>
+    </entry>
+</feed>

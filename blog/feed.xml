@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Newsroom in a Box Blog</title>
+        <link>https://newsroominabox.com/blog</link>
+        <description>The best place to stay up-to-date with the latest Newsroom in a Box news and events.</description>
+        <lastBuildDate>Tue, 30 Jan 2018 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Newsroom in a Box Blog</title>
+            <url>https://newsroominabox.comimg/ben.png</url>
+            <link>https://newsroominabox.com/blog</link>
+        </image>
+        <copyright>Copyright © 2018 Philadelphia Publishing Company</copyright>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <link>https://newsroominabox.com/blog/2018/01/30/hello-world.html</link>
+            <guid>https://newsroominabox.com/blog/2018/01/30/hello-world.html</guid>
+            <pubDate>Tue, 30 Jan 2018 06:00:00 GMT</pubDate>
+            <description><![CDATA[Hello world!]]></description>
+        </item>
+    </channel>
+</rss>
