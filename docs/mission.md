@@ -3,8 +3,13 @@ id: mission
 title: Mission
 ---
 
-_To document and deliver technology_
+Newsroom in a Box encompasses the open source activities of [Philadelphia Publishing Company](https://phillypublishing.com).
 
-that empowers independent publishers
-
-**so they can invest in their communities.**
+Through our open source work, we aim to fulfill the following mission:
+<center>
+> _To document and deliver technology_
+>
+> that empowers independent publishers
+>
+> **to invest in their newsrooms.**
+</center>

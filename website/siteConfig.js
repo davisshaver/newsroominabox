@@ -10,7 +10,7 @@ const users = [];
 
 const siteConfig = {
   title: 'Newsroom in a Box' /* title for your website */,
-  tagline: 'Open source guide & tools for local & niche digital publishing',
+  tagline: 'Open source resource for local publishers, curated by Philadelphia Publishing Company',
   algolia: {
     apiKey: "1229c5896abf1fb0e8f9de29f271942f",
     indexName: "newsroominabox"
@@ -26,13 +26,12 @@ const siteConfig = {
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/ben.png',
   footerIcon: 'img/ben.png',
   favicon: 'img/ben.png',
   /* colors for website */
   colors: {
-    primaryColor: '#09329e',
-    secondaryColor: '#a3a3a3',
+    primaryColor: '#727272',
+    secondaryColor: '#234196',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
