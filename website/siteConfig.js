@@ -21,7 +21,6 @@ const siteConfig = {
   headerLinks: [
     {doc: 'mission', label: 'Mission'},
     {doc: 'projects', label: 'Projects'},
-    {doc: 'contact', label: 'Contact'},
     {blog: true, label: 'Blog'},
   ],
   users,
