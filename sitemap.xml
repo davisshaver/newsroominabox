@@ -4,7 +4,6 @@
 <url> <loc>https://newsroominabox.com/index.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://newsroominabox.com/en/index.html" /> </url>
 <url> <loc>https://newsroominabox.com/users.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://newsroominabox.com/en/users.html" /> </url>
 <url> <loc>https://newsroominabox.com/blog/2018/01/30/hello-world.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://newsroominabox.com/docs/contact.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://newsroominabox.com/docs/contact.html" /> </url>
 <url> <loc>https://newsroominabox.com/docs/mission.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://newsroominabox.com/docs/mission.html" /> </url>
 <url> <loc>https://newsroominabox.com/docs/projects.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://newsroominabox.com/docs/projects.html" /> </url>
 </urlset>
