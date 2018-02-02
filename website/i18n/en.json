@@ -3,13 +3,11 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "Open source resource for local publishers, curated by Philadelphia Publishing Company",
-    "contact": "Contact",
+    "tagline": "Open source resource for local publishers",
     "mission": "Mission",
     "projects": "Projects",
     "Mission": "Mission",
     "Projects": "Projects",
-    "Contact": "Contact",
     "Blog": "Blog"
   },
   "pages-strings": {
