@@ -12,5 +12,6 @@ method="POST">
   <input type="textarea" name="message" placeholder="Your short message" />
   <input type="hidden" name="_subject" value="Newsroom in a Box contact" />
   <input type="text" name="_gotcha" style="display:none" />
+  <input type="hidden" name="_next" value="https://newsroominabox.com" />
   <input class="btn btn-subs" type="submit" value="Get in touch">
 </form>
