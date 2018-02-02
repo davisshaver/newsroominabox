@@ -10,7 +10,7 @@ const users = [];
 
 const siteConfig = {
   title: 'Newsroom in a Box' /* title for your website */,
-  tagline: 'Open source resource for local & niche publishers.',
+  tagline: 'Your open source guide to starting a digital news outlet.',
   algolia: {
     apiKey: "1229c5896abf1fb0e8f9de29f271942f",
     indexName: "newsroominabox"
