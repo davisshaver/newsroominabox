@@ -46,7 +46,10 @@ const siteConfig = {
     theme: 'default',
   },
   cname: 'newsroominabox.com',
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+    'https://www.googletagmanager.com/gtm.js?id=GTM-K7GRFRN'
+  ],
   // You may provide arbitrary config keys to be used as needed by your template.
   repoUrl: 'https://github.com/davisshaver/newsroominabox',
 };
