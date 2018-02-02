@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ### Documentation
-- Newsroom in a Box: Practical guide to local & niche digital publishing. _Coming soon._
+- Newsroom in a Box: Open source guide & tools for local & niche digital publishing. _Coming soon._
 
 ### Software
 - Conductor: Real-time targeted ad delivery, call-to-action, and layout composition. _Coming soon._
